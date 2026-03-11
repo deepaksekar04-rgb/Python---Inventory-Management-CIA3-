@@ -1,0 +1,15 @@
+P01|Steel Rod|120|250.0|MetalCorp|30|100
+P02|Aluminium Sheet|80|180.0|AlumTrade|20|50
+P03|Copper Wire|15|320.0|WirePlus|20|60
+P04|Bearing 6205|200|95.0|SKF Dist.|50|80
+P05|Hydraulic Oil|18|410.0|LubriCo|25|40
+P06|Drill Bit Set|40|560.0|ToolMart|10|20
+P07|Safety Gloves|10|75.0|SafetyPro|20|50
+P08|Welding Rod|300|135.0|WeldSupply|80|150
+P09|PVC Pipe 2in|55|60.0|PipeLine Co.|15|30
+P10|Grease Cartridge|18|220.0|LubriCo|25|30
+P11|Hex Bolt M12|500|12.0|FastenerHub|100|300
+P12|Lathe Tool Bit|25|480.0|CutTech|10|20
+P13|Rubber Gasket|8|45.0|SealMaster|20|50
+P14|Paint Grey 1L|30|310.0|CoatPro|10|25
+P15|Cutting Disc|60|85.0|ToolMart|20|40
